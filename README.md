@@ -1,2 +1,2 @@
 # yaml_helpers
-Code sample of YAML helper functions from a client project.
+Code sample of some YAML helper functions from a client project.
